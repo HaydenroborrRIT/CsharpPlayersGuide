@@ -1,0 +1,15 @@
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/bin/Debug/net5.0/theVariableSop.deps.json
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/bin/Debug/net5.0/theVariableSop.runtimeconfig.json
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/bin/Debug/net5.0/theVariableSop.runtimeconfig.dev.json
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/bin/Debug/net5.0/theVariableSop.dll
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/bin/Debug/net5.0/ref/theVariableSop.dll
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/bin/Debug/net5.0/theVariableSop.pdb
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/obj/Debug/net5.0/theVariableSop.csproj.AssemblyReference.cache
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/obj/Debug/net5.0/theVariableSop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/obj/Debug/net5.0/theVariableSop.AssemblyInfoInputs.cache
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/obj/Debug/net5.0/theVariableSop.AssemblyInfo.cs
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/obj/Debug/net5.0/theVariableSop.csproj.CoreCompileInputs.cache
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/obj/Debug/net5.0/theVariableSop.dll
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/obj/Debug/net5.0/ref/theVariableSop.dll
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/obj/Debug/net5.0/theVariableSop.pdb
+/Users/haydenorr/Projects/CsharpPlayersGuide/theVariableSop/obj/Debug/net5.0/theVariableSop.genruntimeconfig.cache

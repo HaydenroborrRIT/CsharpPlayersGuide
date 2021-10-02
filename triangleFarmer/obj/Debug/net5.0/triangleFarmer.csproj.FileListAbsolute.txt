@@ -1,0 +1,15 @@
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/obj/Debug/net5.0/triangleFarmer.csproj.AssemblyReference.cache
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/obj/Debug/net5.0/triangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/obj/Debug/net5.0/triangleFarmer.AssemblyInfoInputs.cache
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/obj/Debug/net5.0/triangleFarmer.AssemblyInfo.cs
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/obj/Debug/net5.0/triangleFarmer.csproj.CoreCompileInputs.cache
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/bin/Debug/net5.0/triangleFarmer.deps.json
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/bin/Debug/net5.0/triangleFarmer.runtimeconfig.json
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/bin/Debug/net5.0/triangleFarmer.runtimeconfig.dev.json
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/bin/Debug/net5.0/triangleFarmer.dll
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/bin/Debug/net5.0/ref/triangleFarmer.dll
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/bin/Debug/net5.0/triangleFarmer.pdb
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/obj/Debug/net5.0/triangleFarmer.dll
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/obj/Debug/net5.0/ref/triangleFarmer.dll
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/obj/Debug/net5.0/triangleFarmer.pdb
+/Users/haydenorr/Projects/CsharpPlayersGuide/triangleFarmer/obj/Debug/net5.0/triangleFarmer.genruntimeconfig.cache
