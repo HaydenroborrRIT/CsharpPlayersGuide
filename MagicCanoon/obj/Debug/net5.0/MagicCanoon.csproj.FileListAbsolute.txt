@@ -1,0 +1,16 @@
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\bin\Debug\net5.0\MagicCanoon.exe
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\bin\Debug\net5.0\MagicCanoon.deps.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\bin\Debug\net5.0\MagicCanoon.runtimeconfig.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\bin\Debug\net5.0\MagicCanoon.runtimeconfig.dev.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\bin\Debug\net5.0\MagicCanoon.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\bin\Debug\net5.0\ref\MagicCanoon.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\bin\Debug\net5.0\MagicCanoon.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\obj\Debug\net5.0\MagicCanoon.csproj.AssemblyReference.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\obj\Debug\net5.0\MagicCanoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\obj\Debug\net5.0\MagicCanoon.AssemblyInfoInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\obj\Debug\net5.0\MagicCanoon.AssemblyInfo.cs
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\obj\Debug\net5.0\MagicCanoon.csproj.CoreCompileInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\obj\Debug\net5.0\MagicCanoon.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\obj\Debug\net5.0\ref\MagicCanoon.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\obj\Debug\net5.0\MagicCanoon.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\MagicCanoon\obj\Debug\net5.0\MagicCanoon.genruntimeconfig.cache

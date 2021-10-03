@@ -1,0 +1,15 @@
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\bin\Debug\net5.0\dominionOfKings.exe
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\bin\Debug\net5.0\dominionOfKings.deps.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\bin\Debug\net5.0\dominionOfKings.runtimeconfig.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\bin\Debug\net5.0\dominionOfKings.runtimeconfig.dev.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\bin\Debug\net5.0\dominionOfKings.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\bin\Debug\net5.0\ref\dominionOfKings.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\bin\Debug\net5.0\dominionOfKings.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\obj\Debug\net5.0\dominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\obj\Debug\net5.0\dominionOfKings.AssemblyInfoInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\obj\Debug\net5.0\dominionOfKings.AssemblyInfo.cs
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\obj\Debug\net5.0\dominionOfKings.csproj.CoreCompileInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\obj\Debug\net5.0\dominionOfKings.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\obj\Debug\net5.0\ref\dominionOfKings.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\obj\Debug\net5.0\dominionOfKings.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\dominionOfKings\obj\Debug\net5.0\dominionOfKings.genruntimeconfig.cache

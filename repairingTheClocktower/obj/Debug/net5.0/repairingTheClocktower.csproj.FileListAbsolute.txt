@@ -1,0 +1,16 @@
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\bin\Debug\net5.0\repairingTheClocktower.exe
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\bin\Debug\net5.0\repairingTheClocktower.deps.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\bin\Debug\net5.0\repairingTheClocktower.runtimeconfig.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\bin\Debug\net5.0\repairingTheClocktower.runtimeconfig.dev.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\bin\Debug\net5.0\repairingTheClocktower.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\bin\Debug\net5.0\ref\repairingTheClocktower.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\bin\Debug\net5.0\repairingTheClocktower.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\obj\Debug\net5.0\repairingTheClocktower.csproj.AssemblyReference.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\obj\Debug\net5.0\repairingTheClocktower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\obj\Debug\net5.0\repairingTheClocktower.AssemblyInfoInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\obj\Debug\net5.0\repairingTheClocktower.AssemblyInfo.cs
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\obj\Debug\net5.0\repairingTheClocktower.csproj.CoreCompileInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\obj\Debug\net5.0\repairingTheClocktower.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\obj\Debug\net5.0\ref\repairingTheClocktower.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\obj\Debug\net5.0\repairingTheClocktower.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\repairingTheClocktower\obj\Debug\net5.0\repairingTheClocktower.genruntimeconfig.cache

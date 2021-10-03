@@ -1,0 +1,15 @@
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\bin\Debug\net5.0\fourSistersAndtheDuckbear.exe
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\bin\Debug\net5.0\fourSistersAndtheDuckbear.deps.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\bin\Debug\net5.0\fourSistersAndtheDuckbear.runtimeconfig.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\bin\Debug\net5.0\fourSistersAndtheDuckbear.runtimeconfig.dev.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\bin\Debug\net5.0\fourSistersAndtheDuckbear.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\bin\Debug\net5.0\ref\fourSistersAndtheDuckbear.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\bin\Debug\net5.0\fourSistersAndtheDuckbear.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\obj\Debug\net5.0\fourSistersAndtheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\obj\Debug\net5.0\fourSistersAndtheDuckbear.AssemblyInfoInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\obj\Debug\net5.0\fourSistersAndtheDuckbear.AssemblyInfo.cs
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\obj\Debug\net5.0\fourSistersAndtheDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\obj\Debug\net5.0\fourSistersAndtheDuckbear.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\obj\Debug\net5.0\ref\fourSistersAndtheDuckbear.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\obj\Debug\net5.0\fourSistersAndtheDuckbear.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\fourSistersAndtheDuckbear\obj\Debug\net5.0\fourSistersAndtheDuckbear.genruntimeconfig.cache

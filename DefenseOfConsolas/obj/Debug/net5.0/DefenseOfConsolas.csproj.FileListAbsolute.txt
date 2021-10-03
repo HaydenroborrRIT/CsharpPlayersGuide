@@ -1,0 +1,16 @@
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\bin\Debug\net5.0\DefenseOfConsolas.exe
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\bin\Debug\net5.0\DefenseOfConsolas.deps.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\bin\Debug\net5.0\DefenseOfConsolas.runtimeconfig.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\bin\Debug\net5.0\DefenseOfConsolas.runtimeconfig.dev.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\bin\Debug\net5.0\DefenseOfConsolas.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\bin\Debug\net5.0\ref\DefenseOfConsolas.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\bin\Debug\net5.0\DefenseOfConsolas.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\obj\Debug\net5.0\DefenseOfConsolas.csproj.AssemblyReference.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\obj\Debug\net5.0\DefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\obj\Debug\net5.0\DefenseOfConsolas.AssemblyInfoInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\obj\Debug\net5.0\DefenseOfConsolas.AssemblyInfo.cs
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\obj\Debug\net5.0\DefenseOfConsolas.csproj.CoreCompileInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\obj\Debug\net5.0\DefenseOfConsolas.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\obj\Debug\net5.0\ref\DefenseOfConsolas.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\obj\Debug\net5.0\DefenseOfConsolas.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\DefenseOfConsolas\obj\Debug\net5.0\DefenseOfConsolas.genruntimeconfig.cache

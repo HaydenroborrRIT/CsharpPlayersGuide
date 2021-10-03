@@ -1,0 +1,16 @@
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\bin\Debug\net5.0\ReplicatorOfD'to.exe
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\bin\Debug\net5.0\ReplicatorOfD'to.deps.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\bin\Debug\net5.0\ReplicatorOfD'to.runtimeconfig.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\bin\Debug\net5.0\ReplicatorOfD'to.runtimeconfig.dev.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\bin\Debug\net5.0\ReplicatorOfD'to.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\bin\Debug\net5.0\ref\ReplicatorOfD'to.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\bin\Debug\net5.0\ReplicatorOfD'to.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\obj\Debug\net5.0\ReplicatorOfD'to.csproj.AssemblyReference.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\obj\Debug\net5.0\ReplicatorOfD'to.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\obj\Debug\net5.0\ReplicatorOfD'to.AssemblyInfoInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\obj\Debug\net5.0\ReplicatorOfD'to.AssemblyInfo.cs
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\obj\Debug\net5.0\ReplicatorOfD'to.csproj.CoreCompileInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\obj\Debug\net5.0\ReplicatorOfD'to.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\obj\Debug\net5.0\ref\ReplicatorOfD'to.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\obj\Debug\net5.0\ReplicatorOfD'to.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\ReplicatorOfD'to\obj\Debug\net5.0\ReplicatorOfD'to.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\bin\Debug\net5.0\Watchtower.exe
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\bin\Debug\net5.0\Watchtower.deps.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\bin\Debug\net5.0\Watchtower.runtimeconfig.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\bin\Debug\net5.0\Watchtower.runtimeconfig.dev.json
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\bin\Debug\net5.0\Watchtower.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\bin\Debug\net5.0\ref\Watchtower.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\bin\Debug\net5.0\Watchtower.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\obj\Debug\net5.0\Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\obj\Debug\net5.0\Watchtower.AssemblyInfoInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\obj\Debug\net5.0\Watchtower.AssemblyInfo.cs
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\obj\Debug\net5.0\Watchtower.csproj.CoreCompileInputs.cache
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\obj\Debug\net5.0\Watchtower.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\obj\Debug\net5.0\ref\Watchtower.dll
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\obj\Debug\net5.0\Watchtower.pdb
+C:\Users\hayde\Source\Repos\CsharpPlayersGuide\Watchtower\obj\Debug\net5.0\Watchtower.genruntimeconfig.cache
